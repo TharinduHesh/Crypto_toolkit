@@ -82,3 +82,50 @@ A comprehensive, GUI-based cryptographic toolkit built with **Python** and **Tki
    ```bash
    git clone https://github.com/yourusername/crypto-toolkit.git
    cd crypto-toolkit
+
+   Install dependencies:
+
+
+pip install cryptography pillow
+Run the application:
+
+
+python crypto_toolkit.py
+
+
+
+🧠 Use Cases
+Learn cryptography with real examples
+
+Encrypt and decrypt messages or files
+
+Understand brute-force attacks on hash functions
+
+Practice digital signatures
+
+Explore steganography in images
+
+
+📄 License
+MIT License – Free to use for learning, testing, and ethical purposes.
+
+🙋‍♂️ Author
+Tharindu H Ranasinghe
+Cyber Security Undergraduate
+📧 ranasingheheshan8@gmail.com
+🔗 www.linkedin.com/in/tharindu-ranasinghe-b75b01285
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
