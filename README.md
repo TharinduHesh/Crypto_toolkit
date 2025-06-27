@@ -91,7 +91,7 @@ Run the application:
 
   ```bash
 python crypto_toolkit.py
-
+ ```
 
 
 ## 🧠 Use Cases
