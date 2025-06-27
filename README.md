@@ -37,6 +37,36 @@ A comprehensive, GUI-based cryptographic toolkit built with **Python** and **Tki
 
 ---
 
+## 💡 How It Works
+
+### Secure Messaging:
+1. Generate RSA key pairs for Alice & Bob.
+2. Alice signs the message and encrypts it with AES-256.
+3. AES key is encrypted using Bob's RSA public key.
+4. Bob decrypts AES key, decrypts message, and verifies signature.
+
+### File Encryption:
+1. User selects file and password.
+2. AES key is derived from password using PBKDF2.
+3. File encrypted with AES-GCM and saved with salt+IV+tag.
+
+### Hash Cracking:
+1. User enters target hash and algorithm.
+2. Toolkit generates combinations and hashes them.
+3. Compares with target hash until match is found.
+
+### Digital Signatures:
+1. RSA key pair is generated or loaded.
+2. User signs a message and gets Base64 signature.
+3. Signature is verified using the public key.
+
+### Steganography:
+1. User selects an image and enters a secret message.
+2. Message is encoded into image LSB and saved.
+3. Can extract hidden messages from stego images.
+
+---
+
 ## 🧱 Built With
 - Python 3.x
 - Tkinter (GUI)
