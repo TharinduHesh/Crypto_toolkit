@@ -89,12 +89,12 @@ A comprehensive, GUI-based cryptographic toolkit built with **Python** and **Tki
 pip install cryptography pillow
 Run the application:
 
-
+  ```bash
 python crypto_toolkit.py
 
 
 
-🧠 Use Cases
+## 🧠 Use Cases
 Learn cryptography with real examples
 
 Encrypt and decrypt messages or files
