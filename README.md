@@ -109,12 +109,9 @@ Explore steganography in images
 📄 License
 MIT License – Free to use for learning, testing, and ethical purposes.
 
-🙋‍♂️ Author
-Tharindu H Ranasinghe
-Cyber Security Undergraduate
-📧 ranasingheheshan8@gmail.com
+🙋‍♂️ Author Tharindu H Ranasinghe 
+📧 ranasingheheshan8@gmail.com 
 🔗 www.linkedin.com/in/tharindu-ranasinghe-b75b01285
-
 
 
 ---
